@@ -4,6 +4,7 @@ string name= "mariam";
 string lastname = "oniani";
 int age = 33;
 bool maritalstatus = true;
+float height = 172.5f
 
 
 
